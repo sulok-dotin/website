@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "heroku-postbuild": "heroku-nextjs-build",
     "start": "next start",
     "export": "next export"
   },
