@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "prestart": "next build",
-    "start": "next start -p $PORT"
+    "start": "next start -p process.env.PORT"
   },
   "dependencies": {
     "bootstrap": "4.5.0",
