@@ -33,11 +33,12 @@
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
     "swiper": "^5.3.6",
-    "uuid": "^7.0.3",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
     "redux-devtools-extension": "^2.13.8",
     "sass": "^1.26.3"
   },
-  
   "engines" : { 
     "node" : "10.16.0"
    } 
